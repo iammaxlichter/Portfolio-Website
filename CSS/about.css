@@ -203,7 +203,7 @@ header{
 }
 
 /*When the screen gets to MINIMUM 1735 pixels, these changes occur*/
-@media only screen and (min-width: 1741px) {
+@media only screen and (min-width: 1722px) {
     .info{
         transform:translateX(50%);
     }
@@ -211,7 +211,7 @@ header{
         transform:translate(50%,-10%);
     }
     .caption{
-        transform:translateX(-159%)
+        transform:translate(-159%,90%)
     }
 }
 
